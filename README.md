@@ -81,7 +81,7 @@ I'm progressively documenting these projects with workflow exports, screenshots,
 
 ## 🤝 Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/jasvant-malviya-810305429
+- **LinkedIn:** https://www.linkedin.com/in/jasvant-malvi-810305429
 - **GitHub:** https://github.com/jasvantMalvi
 - **Location:** Ahmedabad, Gujarat, India
 
