@@ -79,11 +79,23 @@ I'm progressively documenting these projects with workflow exports, screenshots,
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
-- **LinkedIn:** https://www.linkedin.com/in/jasvant-malvi-810305429
-- **GitHub:** https://github.com/jasvantMalvi
-- **Location:** Ahmedabad, Gujarat, India
+<a href="https://www.linkedin.com/in/jasvant-malvi-810305429/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/jasvantMalvi">
+  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://github.com/jasvantMalvi/AI-Automation-Portfolio">
+  <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+</a>
+
+<div align="center">
+
+*Learning by building. Improving through iteration. Automating real workflows.*
+
+</div>
 
 ---
 
