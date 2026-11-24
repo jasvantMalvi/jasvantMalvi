@@ -99,4 +99,3 @@ I'm progressively documenting these projects with workflow exports, screenshots,
 
 ---
 
-*Building smarter workflows. Automating repetitive tasks. Solving real-world problems.*
