@@ -52,7 +52,7 @@ Currently, I'm focused on developing my skills through hands-on projects using n
 
 ## 📂 My AI Automation Projects
 
-I have built 51 automation and AI-based projects covering different use cases, including:
+I have built 52 automation and AI-based projects covering different use cases, including:
 
 - AI-Powered Customer Support Automation
 - AI Invoice Processing
