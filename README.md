@@ -91,11 +91,13 @@ I'm progressively documenting these projects with workflow exports, screenshots,
   <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
 </a>
 
+---
+
 <div align="center">
 
 *Learning by building. Improving through iteration. Automating real workflows.*
 
 </div>
 
----
+
 
